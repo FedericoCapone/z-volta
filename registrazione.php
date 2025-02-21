@@ -28,7 +28,7 @@ ATTENZIONE: TUTTI I CAMPI SONO OBBILIGATORI
     </form>
     <?php
     if($_POST){
-        //preparo connessione al DB
+        //preparo connessione al DB.
         $host="localhost";
         $username="root";
         $password="";
